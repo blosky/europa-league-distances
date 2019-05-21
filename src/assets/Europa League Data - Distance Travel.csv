@@ -1,0 +1,45 @@
+Year,Stadium,City,Country,Team,Km,StadiumLong,StadiumLat,TeamLong,TeamLat
+1998,Parc des Princes,Paris,France,Inter,640,48.841428,2.252918,45.478041,9.123956
+1998,Parc des Princes,Paris,France,Lazio,1105,48.841428,2.252918,41.934005,12.454897
+1999,Luzhniki Stadium,Moscow,Russia,Marseille,2668,55.715778,37.553629,43.269827,5.395962
+1999,Luzhniki Stadium,Moscow,Russia,Parma,2262,55.715778,37.553629,44.794917,10.338507
+2000,Parken Stadium,Copenhagen,Denmark,Arsenal,953,55.702725,12.572272,51.554928,-0.108545
+2000,Parken Stadium,Copenhagen,Denmark,Galatasaray,2015,55.702725,12.572272,41.103371,28.991088
+2001,Westfalenstadion,Dortmund,Germany,Alaves,1228,51.492595,7.45175,42.837049,-2.688417
+2001,Westfalenstadion,Dortmund,Germany,Liverpool,737,51.492595,7.45175,53.430817,-2.960873
+2002,Feyenoord Stadium,Rotterdam,Netherlands,Borussia Dortmund,207,51.89385,4.523189,51.492578,7.451786
+2002,Feyenoord Stadium,Rotterdam,Netherlands,Feyenoord,0,51.89385,4.523189,51.893837,4.523125
+2003,Estadio Olímpico de Sevilla,Seville,Spain,Celtic,2058,37.41723,-6.004761,55.84972,-4.20565
+2003,Estadio Olímpico de Sevilla,Seville,Spain,Porto,476,37.41723,-6.004761,41.161711,-8.583719
+2004,Nya Ullevi,Gothenburg,Sweden,Marseille,1670,57.705903,11.98722,43.269827,5.395962
+2004,Nya Ullevi,Gothenburg,Sweden,Valencia,2213,57.705903,11.98722,39.474516,-0.358239
+2005,Estádio José Alvalade,Lisbon,Portugal,CSKA Moscow,3899,38.761251,-9.160965,55.791417,37.515972
+2005,Estádio José Alvalade,Lisbon,Portugal,Sporting Lisbon,0,38.761251,-9.160965,38.761123,-9.160891
+2006,Philips Stadion,Eindhoven,Netherlands,Middlesbrough,567,51.441698,5.467431,54.578248,-1.216717
+2006,Philips Stadion,Eindhoven,Netherlands,Sevilla,1083,51.441698,5.467431,37.383902,-5.970691
+2007,Hampden Park,Glasgow,Scotland,Espanyol,1674,55.825872,-4.252187,41.347893,2.075506
+2007,Hampden Park,Glasgow,Scotland,Sevilla,2055,55.825872,-4.252187,37.383902,-5.970691
+2008,Etihad Stadium,Manchester,England,Rangers,296,53.483164,-2.200481,55.853184,-4.309408
+2008,Etihad Stadium,Manchester,England,Zenit Saint Petersburg,2080,53.483164,-2.200481,59.972758,30.220565
+2009,Şükrü Saracoğlu Stadium,Istanbul,Turkey,Shakhtar Donetsk,1045,40.98776,29.03675,48.021049,37.809878
+2009,Şükrü Saracoğlu Stadium,Istanbul,Turkey,Werder Bremen,2024,40.98776,29.03675,53.066381,8.837669
+2010,Hamburg Arena,Hamburg,Germany,Athletico Madrid,1778,53.587153,9.898343,40.436199,-3.599576
+2010,Hamburg Arena,Hamburg,Germany,Fulham,723,53.587153,9.898343,51.474843,-0.221681
+2011,Aviva Stadium,Dublin,Ireland,Braga,1319,53.3352,-6.228285,41.562477,-8.429715
+2011,Aviva Stadium,Dublin,Ireland,Porto,1365,53.3352,-6.228285,41.161711,-8.583719
+2012,Arena Națională,Bucharest,Romania,Athletico Bilbao,2325,44.437163,26.152506,43.264159,-2.949467
+2012,Arena Națională,Bucharest,Romania,Athletico Madrid,2468,44.437163,26.152506,40.436199,-3.599576
+2013,Amsterdam Arena,Amsterdam,Netherlands,Benfica,364,52.314378,4.941803,38.752729,-9.18486
+2013,Amsterdam Arena,Amsterdam,Netherlands,Chelsea,1860,52.314378,4.941803,51.48169,-0.190981
+2014,Allianz Stadium,Turin,Italy,Benfica,1557,45.109584,7.641103,38.752729,-9.18486
+2014,Allianz Stadium,Turin,Italy,Sevilla,1423,45.109584,7.641103,37.383902,-5.970691
+2015,PGE Narodowy,Warsaw,Poland,Dnipro,1075,52.23945,21.045716,48.460339,35.032364
+2015,PGE Narodowy,Warsaw,Poland,Sevilla,2670,52.23945,21.045716,37.383902,-5.970691
+2016,St. Jakob-Park,Basel,Switzerland,Liverpool,993,47.541618,7.619904,53.430817,-2.960873
+2016,St. Jakob-Park,Basel,Switzerland,Sevilla,1582,47.541618,7.619904,37.383902,-5.970691
+2017,Friends Arena,Solna,Sweden,Ajax,1128,59.372739,18.000457,52.314391,4.941878
+2017,Friends Arena,Solna,Sweden,Man United,1403,59.372739,18.000457,53.463072,-2.291443
+2018,Parc Olympique Lyonnais,Lyon,France,Athletico Madrid,914,45.765153,4.982008,40.436199,-3.599576
+2018,Parc Olympique Lyonnais,Lyon,France,Marseille,279,45.765153,4.982008,43.269827,5.395962
+2019,Baku National Stadium,Baku,Azerbaijan,Arsenal,3971,40.429955,49.919602,51.554928,-0.108545
+2019,Baku National Stadium,Baku,Azerbaijan,Chelsea,3977,40.429955,49.919602,51.48169,-0.190981
